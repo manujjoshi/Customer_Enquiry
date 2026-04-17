@@ -114,9 +114,6 @@ st.markdown(
     """
     <div class="enquiry-card">
         <div class="enquiry-title">Customer Enquiry Form</div>
-        <div class="enquiry-subtitle">
-            Share your basic details and we will email your secure KYC link.
-        </div>
     """,
     unsafe_allow_html=True,
 )
